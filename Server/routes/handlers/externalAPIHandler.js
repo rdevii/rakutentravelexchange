@@ -20,7 +20,7 @@ const functions = {
     })
 
     // 7. Return response from external API
-
+    return res.json();
   }
 }
 
